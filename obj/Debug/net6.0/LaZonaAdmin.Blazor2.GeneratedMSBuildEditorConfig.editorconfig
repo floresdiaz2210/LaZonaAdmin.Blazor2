@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = LaZonaAdmin.Blazor2
+build_property.RootNamespace = LaZonaAdmin.Blazor2
+build_property.ProjectDir = C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaAdmin.Blazor2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaAdmin.Blazor2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Categorias/C_Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDX0FncmVnYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Categorias/C_Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDX0VkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Categorias/C_Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDX0VsaW1pbmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Categorias/C_Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDX0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Productos/P_Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXFBfQWdyZWdhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Productos/P_Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXFBfRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Productos/P_Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXFBfRWxpbWluYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Productos/P_index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXFBfaW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Rol/R_Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXFJfQWdyZWdhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Rol/R_Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXFJfRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Rol/R_Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXFJfRWxpbWluYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Rol/R_index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXFJfaW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Usuario/U_Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xVX0FncmVnYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Usuario/U_Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xVX0VkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Usuario/U_Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xVX0VsaW1pbmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Pages/Usuario/U_Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xVX0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6zuyxa09d1
+
+[C:/Users/FERNANlml/Desktop/Practica Profesional/LaZonaAdmin.Blazor2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fj5ma20irg
